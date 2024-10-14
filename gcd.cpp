@@ -10,7 +10,6 @@ int gcd(int a, int b) {
     }
     return res;
 }
-
 int main() {
     int a = 12, b = 16;
     cout << gcd(a, b);
