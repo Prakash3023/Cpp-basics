@@ -14,4 +14,4 @@ int main() {
     int a = 12, b = 16;
     cout << gcd(a, b);
     return 0;
-} 
+}  
