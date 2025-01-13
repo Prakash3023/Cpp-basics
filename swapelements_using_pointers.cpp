@@ -1,3 +1,4 @@
+//swapping elements using pointers
 #include <iostream>
 using namespace std;
 
