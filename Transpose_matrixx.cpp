@@ -1,3 +1,5 @@
+//Transpose of a 2d matrix
+
 #include <bits/stdc++.h> 
 using namespace std; 
 #define N 4
