@@ -1,3 +1,4 @@
+//inserting elemennt in an array
 #include<iostream>
 
 using namespace std;
